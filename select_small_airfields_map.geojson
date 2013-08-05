@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.696998596191,
+          29.8749008178711
+        ]
+      },
+      "properties": {
+        "name": "46TE",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7652969360352,
+          35.7728004455566
+        ]
+      },
+      "properties": {
+        "name": "TN41",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8876631,
+          32.9024467
+        ]
+      },
+      "properties": {
+        "name": "US-0223",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0559997558594,
+          45.3180999755859
+        ]
+      },
+      "properties": {
+        "name": "CA-0043",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0729598999023,
+          45.3311195373535
+        ]
+      },
+      "properties": {
+        "name": "CA-0062",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.380996704102,
+          32.780101776123
+        ]
+      },
+      "properties": {
+        "name": "NM47",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6252975463867,
+          35.3116989135742
+        ]
+      },
+      "properties": {
+        "name": "29NC",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.401000976562,
+          44.5578994750977
+        ]
+      },
+      "properties": {
+        "name": "OG00",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.34400177002,
+          40.415599822998
+        ]
+      },
+      "properties": {
+        "name": "UT79",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3681030273438,
+          33.1857986450195
+        ]
+      },
+      "properties": {
+        "name": "96GA",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.328002929688,
+          37.6705017089844
+        ]
+      },
+      "properties": {
+        "name": "CA54",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.88330078125,
+          39.8250007629395
+        ]
+      },
+      "properties": {
+        "name": "IN45",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3099975585938,
+          27.3836002349854
+        ]
+      },
+      "properties": {
+        "name": "XS50",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.496,
+          34.03775
+        ]
+      },
+      "properties": {
+        "name": "4XA5",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3487014770508,
+          32.4099006652832
+        ]
+      },
+      "properties": {
+        "name": "9LS9",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.573056,
+          30.021
+        ]
+      },
+      "properties": {
+        "name": "48TE",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5327987670898,
+          39.9127998352051
+        ]
+      },
+      "properties": {
+        "name": "PA81",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0608978271484,
+          39.3283004760742
+        ]
+      },
+      "properties": {
+        "name": "63KS",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5413970947266,
+          35.7298011779785
+        ]
+      },
+      "properties": {
+        "name": "1OK8",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.347999573,
+          33.6412010193
+        ]
+      },
+      "properties": {
+        "name": "6TE6",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.330001831055,
+          47.851001739502
+        ]
+      },
+      "properties": {
+        "name": "73WA",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5813980103,
+          40.638999939
+        ]
+      },
+      "properties": {
+        "name": "PS53",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.563003540039,
+          38.7316017150879
+        ]
+      },
+      "properties": {
+        "name": "81CA",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3827972412109,
+          28.6849002838135
+        ]
+      },
+      "properties": {
+        "name": "0XA5",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.452003479004,
+          34.9355010986328
+        ]
+      },
+      "properties": {
+        "name": "CL25",
+        "styleUrl": "#small_airport",
+        "styleHash": "66cd718f",
+        "description": "\n"
+      }
+    }
+  ]
+}
