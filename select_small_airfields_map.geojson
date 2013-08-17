@@ -28,6 +28,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "TN41",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -44,6 +45,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "US-0223",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -60,6 +62,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "CA-0043",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -76,6 +79,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "CA-0062",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -92,6 +96,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "NM47",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -108,6 +113,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "29NC",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -124,6 +130,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "OG00",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -140,6 +147,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "UT79",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -156,6 +164,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "96GA",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -172,6 +181,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "CA54",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -188,6 +198,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "IN45",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -204,6 +215,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "XS50",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -220,6 +232,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "4XA5",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -236,6 +249,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "9LS9",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -252,6 +266,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "48TE",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -268,6 +283,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "PA81",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -284,6 +300,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "63KS",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -300,6 +317,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "1OK8",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -316,6 +334,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "6TE6",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -332,6 +351,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "73WA",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -348,6 +368,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "PS53",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -364,6 +385,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "81CA",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -380,6 +402,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "0XA5",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
@@ -396,6 +419,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "airport",
         "name": "CL25",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
