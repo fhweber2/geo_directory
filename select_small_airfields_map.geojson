@@ -11,6 +11,7 @@
         ]
       },
       "properties": {
+        "marker-symbol": "Airfield",
         "name": "46TE",
         "styleUrl": "#small_airport",
         "styleHash": "66cd718f",
