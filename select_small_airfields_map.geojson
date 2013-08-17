@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "airport",
+        "marker-symbol": "airport, 9",
         "name": "46TE",
         "styleHash": "66cd718f",
         "description": "\n"
